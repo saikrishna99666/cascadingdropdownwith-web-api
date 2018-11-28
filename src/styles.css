@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body{
+  background-color: #202224!important;
+  /*background: url(assets/img/bg2.gif);*/
+  background-size: cover;
+}
+
+.welcome{
+  color: aliceblue;
+  text-shadow: 3px 3px 3px #141515;
+  font-size: 1.5rem;
+}
+
+.bg-video{
+  /*background: url(assets/img/bg2.gif);*/
+  background: url(assets/img/header.jpg);
+  background-size: cover;
+}
+.bg-video2{
+  background: url(assets/img/bg2.gif);
+  /*background: url(assets/img/bg.gif);*/
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
